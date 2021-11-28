@@ -11,11 +11,7 @@ https://www.figma.com/proto/HgxDZ4kpPaj4ayG1WnP7QV/Prototipo_MooviFast?node-id=1
 
 
 ### *Pitch Deck
-https://www.youtube.com/watch?v=fzjwsCfTxo8
-
-
 [<img src="https://github.com/appmoovifast/prototipo/blob/main/gif_video.gif" width="50%">](https://www.youtube.com/watch?v=fzjwsCfTxo8)
-https://www.youtube.com/watch?v=fzjwsCfTxo8
 
 ## Equipe:
 ### Adma Raia Silva, (RA 12109320); 
