@@ -11,6 +11,8 @@
 
 ### *Teste A/B
 
+https://github.com/appmoovifast/prototipo/blob/main/TESTE%20AB.pdf
+
 
 
 ### *Pitch Deck
