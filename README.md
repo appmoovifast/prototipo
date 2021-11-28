@@ -13,6 +13,10 @@ https://www.figma.com/proto/HgxDZ4kpPaj4ayG1WnP7QV/Prototipo_MooviFast?node-id=1
 ### *Pitch Deck
 https://www.youtube.com/watch?v=fzjwsCfTxo8
 
+
+[<img src="https://img.youtube.com/vi/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=fzjwsCfTxo8)
+https://www.youtube.com/watch?v=fzjwsCfTxo8
+
 ## Equipe:
 ### Adma Raia Silva, (RA 12109320); 
 ### Carolina Diniz Santos, (RA 12109399); 
